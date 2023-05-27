@@ -7,3 +7,4 @@ Demonstração e exercícios CSS externo - turma T4
 
 ![Imagem muito legal](gitlab.png)
 
+<img src="gitlab.png" alt="imagem muito legal">
